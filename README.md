@@ -18,7 +18,7 @@ amsibypass：https://github.com/boku7/injectAmsiBypass
 OSEP-Code-Snippets：https://github.com/chvancooten/OSEP-Code-Snippets
 
 
-# 好用的项目与场景
+# 好用的项目与使用场景
 
 1、Bypass-CLM，用于绕过Powershell Constrained语言模式：
 [https://github.com/calebstewart/bypass-clm](https://github.com/calebstewart/bypass-clm)
@@ -41,11 +41,7 @@ OSEP-Code-Snippets：https://github.com/chvancooten/OSEP-Code-Snippets
 7、Rubeus：
 [https://github.com/GhostPack/Rubeus](https://github.com/GhostPack/Rubeus)
 
-8、nishang：
-[https://github.com/samratashok/nishang/blob/master/Shells/Invoke-PowerShellTcp.ps1](https://github.com/samratashok/nishang/blob/master/Shells/Invoke-PowerShellTcp.ps1)
-
-9、PrintSpoofer，存在Seimpersonate权限并开启spoofer服务时可以提权：
+8、PrintSpoofer，存在Seimpersonate权限并开启spoofer服务时可以提权：
 [https://github.com/itm4n/PrintSpoofer](https://github.com/itm4n/PrintSpoofer)
 
-10、PowerUpSQL，包括支持 SQL Server 发现、弱配置审计、大规模特权升级以及诸如操作系统命令执行等利用后操作的功能：
-[https://github.com/NetSPI/PowerUpSQL](https://github.com/NetSPI/PowerUpSQL)
+
